@@ -1,0 +1,67 @@
+I. Title & Description of the project 
+
+Wellthy
+Wellthy is a VR project providing undergraduate COOP students in technical fields with a simulation of behavioral interviews, immersing the user in the same high-stakes circumstances as a real life interview.
+
+a. What type of XR Project is it? 
+
+Virtual Reality (VR)
+
+b. Project features – what does the user do, what makes it interesting, etc. 
+
+The user will…
+
+Configure their interview experience based on
+Number of questions 
+Question type (behavioural or technical)
+Interview session duration (5 minutes OR 15 minutes OR 30 minutes)
+Be shown an interview question 
+Begin the interview question
+Indicate they have completed the interview question; either to finish the session or move onto the next question 
+Complete a self-evaluation to reflect upon their experience
+Interpret a rubric to enhance self-evaluation
+
+What makes it interesting? 
+
+building muscle memory
+Experience real conversation dynamics 
+Experience human pressures
+Practicing in a safe, yet organic environment 
+
+c. What social good area is your targeting? How does your design help accomplish that goal?
+
+ 
+
+II. DEMO 
+
+III. Project implementation 
+a. Is place illusion important for the program? 
+b. If yes, was place illusion integrated into the software? 
+c. If yes, how was it integrated? If no (and answer to b is yes), why not? 
+d. Same for plausibility illusion and body embodiment illusion.
+
+Yes, place inclusion is important. It was implemented in the following ways:
+Having people (interviewers in the room)
+Allowing for customization of the room background
+[...]
+Yes, plausibility illusion is important. It was implemented in the following ways:
+Real interview questions are being asked pulled from [...]
+Users are in a simulated interview scenario, complete with an interview room
+Body embodiment illusion is not entirely necessary for our project. As long as the user is able to believe that they are in the virtual interview space, and believes they are participating in an interview, then we have achieved what is needed for the project’s goals.
+
+
+IV. If an educational software, was any of the educational methods seen in class used? If yes, which? If no, why not? 
+
+An education method was used as the user is able to self-reflect on their performance.
+
+If a storytelling software, please indicate 3-5 story elements seen in class that you used in your program. 
+If a game, please indicate the win/loss situations for the user (unless sandbox). Also, what do you think makes it engaging? 
+Please indicate if you used the self-determination theory; if yes, which elements? If no, why not? 
+
+V. Questions 
+
+
+
+
+Additional Notes for Project:
+Include a question at the end asking users if they feel the interview went good or bad. If they select good it puts them in their new fancy office with a job offer. If they select bad a popup appears asking them to try again, and giving feedback tips

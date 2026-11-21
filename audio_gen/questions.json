@@ -1,0 +1,704 @@
+{
+  "questions": [
+    {
+      "id": "beh_001",
+      "type": "Behavioral",
+      "topic": "Teamwork & Collaboration",
+      "text": "Tell me about a time you collaborated closely with another developer on a challenging feature. How did you divide the work and keep your code in sync?",
+      "rubric_hints": ["Clear division of responsibilities", "Communication cadence and Git workflow", "Shared outcome and impact"]
+    },
+    {
+      "id": "beh_002",
+      "type": "Behavioral",
+      "topic": "Teamwork & Collaboration",
+      "text": "Describe a group software project where teammates had very different coding styles or skill levels. How did you help the team work effectively together?",
+      "rubric_hints": ["Empathy and adaptability", "Concrete steps like pairing or shared standards", "Positive team outcome"]
+    },
+    {
+      "id": "beh_003",
+      "type": "Behavioral",
+      "topic": "Teamwork & Collaboration",
+      "text": "Tell me about a time a teammate was falling behind on a shared engineering deliverable. How did you handle the situation?",
+      "rubric_hints": ["Proactive and non-judgmental check-in", "How work was reprioritized or supported", "Result for the project deadline"]
+    },
+    {
+      "id": "beh_004",
+      "type": "Behavioral",
+      "topic": "Teamwork & Collaboration",
+      "text": "Give me an example of when pair programming or a working session with a teammate helped you solve a problem much faster than working alone.",
+      "rubric_hints": ["Context of the blocker", "How collaboration changed the approach", "Specific lesson learned"]
+    },
+    {
+      "id": "beh_005",
+      "type": "Behavioral",
+      "topic": "Teamwork & Collaboration",
+      "text": "Describe a time you had to integrate your code with an API or component written by someone else, and it did not behave as expected.",
+      "rubric_hints": ["How you investigated before blaming", "Constructive communication with the author", "Resolution and preventive step"]
+    },
+    {
+      "id": "beh_006",
+      "type": "Behavioral",
+      "topic": "Teamwork & Collaboration",
+      "text": "Tell me about a time you contributed to improving your team's engineering workflow, such as documentation, testing, or deployment.",
+      "rubric_hints": ["Pain point identified", "Action taken to improve workflow", "Measurable benefit to teammates"]
+    },
+    {
+      "id": "beh_007",
+      "type": "Behavioral",
+      "topic": "Teamwork & Collaboration",
+      "text": "Have you ever worked on a project where someone else's code broke the build or main branch right before a demo? What did you do?",
+      "rubric_hints": ["Calm incident response", "Team-first problem solving without blame", "Follow-up safeguard introduced"]
+    },
+    {
+      "id": "beh_008",
+      "type": "Behavioral",
+      "topic": "Teamwork & Collaboration",
+      "text": "Tell me about a time you received help from a senior engineer or teammate that unblocked you. How did you prepare before asking?",
+      "rubric_hints": ["Debugging done independently first", "Clear summary of context when asking", "What you took away for future work"]
+    },
+    {
+      "id": "beh_009",
+      "type": "Behavioral",
+      "topic": "Teamwork & Collaboration",
+      "text": "Describe a project where your team had to coordinate across multiple time zones or conflicting schedules. How did you stay aligned?",
+      "rubric_hints": ["Async communication habits", "Documentation and handoff clarity", "Smooth delivery outcome"]
+    },
+    {
+      "id": "beh_010",
+      "type": "Behavioral",
+      "topic": "Teamwork & Collaboration",
+      "text": "Tell me about a time you stepped outside your assigned tasks to support a teammate or unblock the broader project.",
+      "rubric_hints": ["Recognition of team bottleneck", "Balance with your own responsibilities", "Impact on team delivery"]
+    },
+    {
+      "id": "beh_011",
+      "type": "Behavioral",
+      "topic": "Conflict Resolution & Code Reviews",
+      "text": "Tell me about a time you strongly disagreed with a teammate on a technical design or architecture choice. How did you resolve it?",
+      "rubric_hints": ["Objective comparison of trade-offs", "Respectful listening", "Alignment and commitment to final decision"]
+    },
+    {
+      "id": "beh_012",
+      "type": "Behavioral",
+      "topic": "Conflict Resolution & Code Reviews",
+      "text": "Describe a time you received harsh or frustrating feedback during a code review. How did you respond?",
+      "rubric_hints": ["Emotional composure", "Separating ego from code", "Constructive action taken"]
+    },
+    {
+      "id": "beh_013",
+      "type": "Behavioral",
+      "topic": "Conflict Resolution & Code Reviews",
+      "text": "Tell me about a time you had to push back on a teammate's pull request because of quality, performance, or security concerns.",
+      "rubric_hints": ["Specific, actionable review feedback", "Respectful tone and explanation of why", "Collaborative resolution"]
+    },
+    {
+      "id": "beh_014",
+      "type": "Behavioral",
+      "topic": "Conflict Resolution & Code Reviews",
+      "text": "Have you ever compromised on a technical approach you believed was better for the sake of the team or timeline? What happened?",
+      "rubric_hints": ["Understanding of broader context", "Disagree and commit mindset", "Outcome and reflection"]
+    },
+    {
+      "id": "beh_015",
+      "type": "Behavioral",
+      "topic": "Conflict Resolution & Code Reviews",
+      "text": "Describe a situation where two teammates were deadlocked on how to implement a feature. What role did you play?",
+      "rubric_hints": ["Neutral facilitation", "Reframing around user or system goals", "Concrete decision reached"]
+    },
+    {
+      "id": "beh_016",
+      "type": "Behavioral",
+      "topic": "Conflict Resolution & Code Reviews",
+      "text": "Tell me about a time you realized mid-discussion that your proposed technical solution was wrong and a teammate's was better.",
+      "rubric_hints": ["Humility and openness to evidence", "Acknowledging the better idea cleanly", "Resulting improvement"]
+    },
+    {
+      "id": "beh_017",
+      "type": "Behavioral",
+      "topic": "Conflict Resolution & Code Reviews",
+      "text": "Tell me about a time you had to deliver constructive criticism to a peer about their code quality or engineering habits.",
+      "rubric_hints": ["Private, respectful framing", "Focus on behavior/code rather than person", "Positive change afterward"]
+    },
+    {
+      "id": "beh_018",
+      "type": "Behavioral",
+      "topic": "Conflict Resolution & Code Reviews",
+      "text": "Describe a time when a code review caught a subtle bug in your work before it reached production. What did that teach you?",
+      "rubric_hints": ["Nature of the bug", "Appreciation for review process", "Testing or checklist habit adopted"]
+    },
+    {
+      "id": "beh_019",
+      "type": "Behavioral",
+      "topic": "Conflict Resolution & Code Reviews",
+      "text": "Have you ever disagreed with a senior engineer or team lead about how to solve a problem? How did you handle that conversation?",
+      "rubric_hints": ["Data-backed reasoning", "Respectful communication across seniority", "Resolution and takeaway"]
+    },
+    {
+      "id": "beh_020",
+      "type": "Behavioral",
+      "topic": "Conflict Resolution & Code Reviews",
+      "text": "Tell me about a time friction in team communication slowed down development. What did you do to fix it?",
+      "rubric_hints": ["Root cause of friction identified", "Initiative to clarify norms or channels", "Improved team velocity"]
+    },
+    {
+      "id": "beh_021",
+      "type": "Behavioral",
+      "topic": "Debugging, Incidents & Problem Solving",
+      "text": "Tell me about the hardest bug you have ever had to track down. How did you isolate the root cause?",
+      "rubric_hints": ["Systematic debugging steps", "Tools or logs used", "Fix and prevention afterward"]
+    },
+    {
+      "id": "beh_022",
+      "type": "Behavioral",
+      "topic": "Debugging, Incidents & Problem Solving",
+      "text": "Describe a time an application or service you worked on failed in production or during a live demo. How did you respond under pressure?",
+      "rubric_hints": ["Immediate triage and mitigation", "Clear communication with stakeholders", "Post-incident fix"]
+    },
+    {
+      "id": "beh_023",
+      "type": "Behavioral",
+      "topic": "Debugging, Incidents & Problem Solving",
+      "text": "Tell me about a time you encountered an intermittent or hard-to-reproduce bug. How did you go about diagnosing it?",
+      "rubric_hints": ["Hypothesis-driven investigation", "Logging, reproduction harness, or bisecting", "Resolution achieved"]
+    },
+    {
+      "id": "beh_024",
+      "type": "Behavioral",
+      "topic": "Debugging, Incidents & Problem Solving",
+      "text": "Give me an example of a performance bottleneck you identified and fixed in a codebase. How did you measure the improvement?",
+      "rubric_hints": ["Profiling before optimizing", "Specific optimization applied", "Before-and-after metrics"]
+    },
+    {
+      "id": "beh_025",
+      "type": "Behavioral",
+      "topic": "Debugging, Incidents & Problem Solving",
+      "text": "Describe a time you had to jump into an unfamiliar or poorly documented codebase and fix an urgent issue.",
+      "rubric_hints": ["Strategy for navigating unfamiliar code", "Safely testing changes", "Successful fix"]
+    },
+    {
+      "id": "beh_026",
+      "type": "Behavioral",
+      "topic": "Debugging, Incidents & Problem Solving",
+      "text": "Tell me about a time your first attempt to fix a bug actually made things worse or revealed a deeper issue. What did you do next?",
+      "rubric_hints": ["Quick recognition and rollback if needed", "Deeper root-cause analysis", "Final stable solution"]
+    },
+    {
+      "id": "beh_027",
+      "type": "Behavioral",
+      "topic": "Debugging, Incidents & Problem Solving",
+      "text": "Describe a problem where you realized the bug was not in your code, but in an external library, environment, or configuration.",
+      "rubric_hints": ["How you proved the root cause", "Workaround or upstream fix", "Documentation for teammates"]
+    },
+    {
+      "id": "beh_028",
+      "type": "Behavioral",
+      "topic": "Debugging, Incidents & Problem Solving",
+      "text": "Tell me about a time you automated a repetitive manual task or built an internal tool to save your team time.",
+      "rubric_hints": ["Problem spotted", "Tool or script built", "Quantifiable time or error reduction"]
+    },
+    {
+      "id": "beh_029",
+      "type": "Behavioral",
+      "topic": "Debugging, Incidents & Problem Solving",
+      "text": "Walk me through a time you solved a complex technical problem by breaking it down into smaller, testable parts.",
+      "rubric_hints": ["Structured decomposition", "Incremental validation", "Clean final result"]
+    },
+    {
+      "id": "beh_030",
+      "type": "Behavioral",
+      "topic": "Debugging, Incidents & Problem Solving",
+      "text": "Tell me about a time you noticed a potential reliability or security risk before anyone else did. What actions did you take?",
+      "rubric_hints": ["Proactive vigilance", "Risk communicated clearly", "Mitigation implemented"]
+    },
+    {
+      "id": "beh_031",
+      "type": "Behavioral",
+      "topic": "Ownership, Accountability & Mistakes",
+      "text": "Tell me about a time you made a mistake in your code that impacted your team or users. How did you handle it?",
+      "rubric_hints": ["Full ownership without excuses", "Fast remediation and communication", "Process change to prevent recurrence"]
+    },
+    {
+      "id": "beh_032",
+      "type": "Behavioral",
+      "topic": "Ownership, Accountability & Mistakes",
+      "text": "Describe a time you took ownership of a task or bug that technically belonged to no one else.",
+      "rubric_hints": ["Initiative beyond job description", "Follow-through to completion", "Positive impact on team"]
+    },
+    {
+      "id": "beh_033",
+      "type": "Behavioral",
+      "topic": "Ownership, Accountability & Mistakes",
+      "text": "Tell me about a project or feature you owned from initial idea all the way to deployment or final delivery.",
+      "rubric_hints": ["End-to-end planning and execution", "Challenges overcome along the way", "Final result and reflection"]
+    },
+    {
+      "id": "beh_034",
+      "type": "Behavioral",
+      "topic": "Ownership, Accountability & Mistakes",
+      "text": "Give me an example of a time you underestimated the complexity of an engineering task. How did you recover?",
+      "rubric_hints": ["Early escalation of revised estimate", "Scope or plan adjustment", "Lessons for future estimation"]
+    },
+    {
+      "id": "beh_035",
+      "type": "Behavioral",
+      "topic": "Ownership, Accountability & Mistakes",
+      "text": "Tell me about a time you accidentally deleted data, broke a test environment, or pushed a bad commit. What happened next?",
+      "rubric_hints": ["Immediate honesty and transparency", "Recovery steps taken", "Safeguard added afterward"]
+    },
+    {
+      "id": "beh_036",
+      "type": "Behavioral",
+      "topic": "Ownership, Accountability & Mistakes",
+      "text": "Describe a situation where you spotted technical debt that nobody was prioritizing. What did you do about it?",
+      "rubric_hints": ["Articulating business or engineering cost", "Incremental cleanup or proposal", "Measurable improvement"]
+    },
+    {
+      "id": "beh_037",
+      "type": "Behavioral",
+      "topic": "Ownership, Accountability & Mistakes",
+      "text": "Tell me about a time you shipped a feature and later realized users were using it differently than you expected.",
+      "rubric_hints": ["Observing real user behavior", "Iterating without defensiveness", "Improved usability or design"]
+    },
+    {
+      "id": "beh_038",
+      "type": "Behavioral",
+      "topic": "Ownership, Accountability & Mistakes",
+      "text": "Tell me about a time you committed to a deadline and realized halfway through that you might miss it.",
+      "rubric_hints": ["Proactive communication early", "Options presented to stakeholders", "Outcome and trust preserved"]
+    },
+    {
+      "id": "beh_039",
+      "type": "Behavioral",
+      "topic": "Ownership, Accountability & Mistakes",
+      "text": "Describe a time you had to clean up or refactor messy code that you yourself wrote earlier.",
+      "rubric_hints": ["Self-awareness of growth", "Safe refactoring with tests", "Maintainability gains"]
+    },
+    {
+      "id": "beh_040",
+      "type": "Behavioral",
+      "topic": "Ownership, Accountability & Mistakes",
+      "text": "Give me an example of a time you went above and beyond to ensure the quality of a release.",
+      "rubric_hints": ["Attention to edge cases and testing", "Ownership of user experience", "Smooth launch outcome"]
+    },
+    {
+      "id": "beh_041",
+      "type": "Behavioral",
+      "topic": "Ambiguity & Scope Changes",
+      "text": "Tell me about a time you were given a vague ticket or open-ended engineering requirement. How did you turn it into an actionable plan?",
+      "rubric_hints": ["Clarifying questions asked", "Breaking ambiguity into milestones", "Successful delivery"]
+    },
+    {
+      "id": "beh_042",
+      "type": "Behavioral",
+      "topic": "Ambiguity & Scope Changes",
+      "text": "Describe a project where the requirements changed significantly halfway through development. How did you adapt?",
+      "rubric_hints": ["Flexibility without frustration", "Evaluating impact on existing code", "Clean pivot to new requirements"]
+    },
+    {
+      "id": "beh_043",
+      "type": "Behavioral",
+      "topic": "Ambiguity & Scope Changes",
+      "text": "Tell me about a time you had to make a technical decision without having all the information you wanted.",
+      "rubric_hints": ["Gathering best available signals", "Keeping the decision reversible", "Outcome and reflection"]
+    },
+    {
+      "id": "beh_044",
+      "type": "Behavioral",
+      "topic": "Ambiguity & Scope Changes",
+      "text": "Give me an example of when scope creep threatened a project deadline. How did you help keep the project on track?",
+      "rubric_hints": ["Distinguishing must-haves from nice-to-haves", "Constructive negotiation", "Delivered core scope on time"]
+    },
+    {
+      "id": "beh_045",
+      "type": "Behavioral",
+      "topic": "Ambiguity & Scope Changes",
+      "text": "Tell me about a time you built a quick prototype or proof of concept to test an uncertain idea before committing to a full build.",
+      "rubric_hints": ["Hypothesis tested", "Speed and focus of prototype", "How findings shaped the real solution"]
+    },
+    {
+      "id": "beh_046",
+      "type": "Behavioral",
+      "topic": "Ambiguity & Scope Changes",
+      "text": "Describe a situation where you had to design a solution while key dependencies from another team or API were not ready yet.",
+      "rubric_hints": ["Using interfaces, mocks, or contracts", "Unblocking parallel progress", "Smooth final integration"]
+    },
+    {
+      "id": "beh_047",
+      "type": "Behavioral",
+      "topic": "Ambiguity & Scope Changes",
+      "text": "Tell me about a time a stakeholder asked for a feature that seemed simple on the surface, but was technically complex underneath.",
+      "rubric_hints": ["Explaining complexity in plain terms", "Proposing simpler alternatives", "Agreed path forward"]
+    },
+    {
+      "id": "beh_048",
+      "type": "Behavioral",
+      "topic": "Ambiguity & Scope Changes",
+      "text": "Have you ever worked on a project that was pivoted or cancelled after you had already invested significant effort? How did you handle it?",
+      "rubric_hints": ["Emotional resilience", "Extracting reusable lessons or code", "Smooth transition to next priority"]
+    },
+    {
+      "id": "beh_049",
+      "type": "Behavioral",
+      "topic": "Ambiguity & Scope Changes",
+      "text": "Describe a time you had to figure out edge cases that were not mentioned in the specification.",
+      "rubric_hints": ["Proactive edge-case thinking", "Validating assumptions with stakeholders", "Prevented bugs"]
+    },
+    {
+      "id": "beh_050",
+      "type": "Behavioral",
+      "topic": "Ambiguity & Scope Changes",
+      "text": "Tell me about a time you had to choose between shipping something imperfect now or waiting to build a cleaner solution.",
+      "rubric_hints": ["Context-aware trade-off reasoning", "Managing technical debt responsibly", "Outcome for users"]
+    },
+    {
+      "id": "beh_051",
+      "type": "Behavioral",
+      "topic": "Time Management, Deadlines & Prioritization",
+      "text": "Tell me about a time you were juggling multiple urgent bugs or feature tasks at once. How did you decide what to tackle first?",
+      "rubric_hints": ["Clear prioritization criteria (impact vs urgency)", "Communication with stakeholders", "Tasks completed effectively"]
+    },
+    {
+      "id": "beh_052",
+      "type": "Behavioral",
+      "topic": "Time Management, Deadlines & Prioritization",
+      "text": "Describe a tight deadline you faced on a software project. How did you organize your work to meet it without sacrificing stability?",
+      "rubric_hints": ["Time-boxing and scoping", "Protecting critical tests or checks", "Successful delivery"]
+    },
+    {
+      "id": "beh_053",
+      "type": "Behavioral",
+      "topic": "Time Management, Deadlines & Prioritization",
+      "text": "Tell me about a time you had to say no to a request or defer a feature because there was not enough time.",
+      "rubric_hints": ["Data-based explanation of capacity", "Offering an alternative or timeline", "Maintained good relationship"]
+    },
+    {
+      "id": "beh_054",
+      "type": "Behavioral",
+      "topic": "Time Management, Deadlines & Prioritization",
+      "text": "Give me an example of when you spent too much time perfecting a small detail instead of focusing on the bigger picture.",
+      "rubric_hints": ["Self-awareness of perfectionism trap", "Course correction", "How you prioritize impact now"]
+    },
+    {
+      "id": "beh_055",
+      "type": "Behavioral",
+      "topic": "Time Management, Deadlines & Prioritization",
+      "text": "Describe how you break down a large multi-week engineering feature into daily or sprint-sized tasks.",
+      "rubric_hints": ["Milestone breakdown", "Identifying blockers early", "Concrete project example"]
+    },
+    {
+      "id": "beh_056",
+      "type": "Behavioral",
+      "topic": "Time Management, Deadlines & Prioritization",
+      "text": "Tell me about a time an unexpected high-priority issue interrupted work you were already behind schedule on.",
+      "rubric_hints": ["Re-evaluating priorities calmly", "Communicating trade-offs", "Resolution of both tasks"]
+    },
+    {
+      "id": "beh_057",
+      "type": "Behavioral",
+      "topic": "Time Management, Deadlines & Prioritization",
+      "text": "Describe a time you recognized early that a project plan was unrealistic and spoke up about it.",
+      "rubric_hints": ["Evidence supporting your concern", "Constructive alternative proposal", "Positive impact on schedule"]
+    },
+    {
+      "id": "beh_058",
+      "type": "Behavioral",
+      "topic": "Time Management, Deadlines & Prioritization",
+      "text": "Tell me about how you stay productive and avoid burnout during crunch periods like hackathons, exams, or release weeks.",
+      "rubric_hints": ["Sustainable habits", "Focus on high-leverage work", "Consistent execution"]
+    },
+    {
+      "id": "beh_059",
+      "type": "Behavioral",
+      "topic": "Time Management, Deadlines & Prioritization",
+      "text": "Give me an example of a time you had to balance fixing lingering bugs against building new user-facing features.",
+      "rubric_hints": ["User impact assessment", "Balanced allocation", "Outcome achieved"]
+    },
+    {
+      "id": "beh_060",
+      "type": "Behavioral",
+      "topic": "Time Management, Deadlines & Prioritization",
+      "text": "Tell me about a time you missed a deadline or personal milestone. What caused it and what changed in your process afterward?",
+      "rubric_hints": ["Honest accountability", "Root cause analysis", "Concrete process improvement"]
+    },
+    {
+      "id": "beh_061",
+      "type": "Behavioral",
+      "topic": "Technical Trade-offs & Architecture Decisions",
+      "text": "Tell me about a significant technical decision you made between two competing technologies, frameworks, or libraries.",
+      "rubric_hints": ["Clear evaluation criteria", "Pros and cons weighed", "How the choice held up in practice"]
+    },
+    {
+      "id": "beh_062",
+      "type": "Behavioral",
+      "topic": "Technical Trade-offs & Architecture Decisions",
+      "text": "Describe a time you chose a simpler, boring solution over a more complex or trendy one. Why?",
+      "rubric_hints": ["Pragmatism over resume-driven design", "Maintainability and team familiarity", "Successful outcome"]
+    },
+    {
+      "id": "beh_063",
+      "type": "Behavioral",
+      "topic": "Technical Trade-offs & Architecture Decisions",
+      "text": "Tell me about a time you designed a feature with scalability or future extensibility in mind.",
+      "rubric_hints": ["Anticipated growth or change", "Clean abstraction without over-engineering", "Real benefit later"]
+    },
+    {
+      "id": "beh_064",
+      "type": "Behavioral",
+      "topic": "Technical Trade-offs & Architecture Decisions",
+      "text": "Have you ever over-engineered a solution and later wished you had kept it simpler? Walk me through what happened.",
+      "rubric_hints": ["Honest reflection", "Cost of unnecessary complexity", "What you do differently now"]
+    },
+    {
+      "id": "beh_065",
+      "type": "Behavioral",
+      "topic": "Technical Trade-offs & Architecture Decisions",
+      "text": "Tell me about a time you decided to build something in-house versus using an existing third-party library or API.",
+      "rubric_hints": ["Build vs buy trade-offs (time, reliability, cost)", "Decision rationale", "Result"]
+    },
+    {
+      "id": "beh_066",
+      "type": "Behavioral",
+      "topic": "Technical Trade-offs & Architecture Decisions",
+      "text": "Describe a time you had to balance code readability and maintainability against raw execution speed.",
+      "rubric_hints": ["Evidence that performance mattered", "Keeping code clean and documented", "Balanced result"]
+    },
+    {
+      "id": "beh_067",
+      "type": "Behavioral",
+      "topic": "Technical Trade-offs & Architecture Decisions",
+      "text": "Tell me about a time you refactored a tightly coupled module to make it easier to test or maintain.",
+      "rubric_hints": ["Pain point before refactoring", "Incremental safe approach", "Testability/maintainability improvement"]
+    },
+    {
+      "id": "beh_068",
+      "type": "Behavioral",
+      "topic": "Technical Trade-offs & Architecture Decisions",
+      "text": "Describe a time you had to migrate data or update a schema without breaking existing functionality.",
+      "rubric_hints": ["Backward compatibility planning", "Testing/rollback strategy", "Clean migration"]
+    },
+    {
+      "id": "beh_069",
+      "type": "Behavioral",
+      "topic": "Technical Trade-offs & Architecture Decisions",
+      "text": "Tell me about how you decide how much automated testing a new feature needs before shipping it.",
+      "rubric_hints": ["Risk-based testing mindset", "Unit vs integration trade-offs", "Concrete example"]
+    },
+    {
+      "id": "beh_070",
+      "type": "Behavioral",
+      "topic": "Technical Trade-offs & Architecture Decisions",
+      "text": "Give me an example of a design decision you made early in a project that you would change if you started over today.",
+      "rubric_hints": ["Clear understanding of architectural flaw", "How it affected development", "Better alternative identified"]
+    },
+    {
+      "id": "beh_071",
+      "type": "Behavioral",
+      "topic": "Learning, Feedback & Adaptability",
+      "text": "Tell me about a time you had to learn a completely new programming language or framework very quickly for a project.",
+      "rubric_hints": ["Structured learning strategy", "Applying knowledge immediately", "Delivered result"]
+    },
+    {
+      "id": "beh_072",
+      "type": "Behavioral",
+      "topic": "Learning, Feedback & Adaptability",
+      "text": "Describe the most valuable piece of constructive feedback you have received from a mentor, manager, or professor.",
+      "rubric_hints": ["Openness to feedback", "Concrete behavioral change made", "Long-term improvement"]
+    },
+    {
+      "id": "beh_073",
+      "type": "Behavioral",
+      "topic": "Learning, Feedback & Adaptability",
+      "text": "Tell me about a time you were stuck on a technical problem for hours. How did you eventually get unstuck?",
+      "rubric_hints": ["Knowing when to step back or change tactics", "How you researched or asked for help", "Breakthrough and lesson"]
+    },
+    {
+      "id": "beh_074",
+      "type": "Behavioral",
+      "topic": "Learning, Feedback & Adaptability",
+      "text": "Describe a technical topic or concept that took you a long time to truly understand, and how it finally clicked.",
+      "rubric_hints": ["Persistence and curiosity", "Hands-on practice method", "How you apply it now"]
+    },
+    {
+      "id": "beh_075",
+      "type": "Behavioral",
+      "topic": "Learning, Feedback & Adaptability",
+      "text": "Tell me about a time you stepped out of your technical comfort zone, such as a backend developer doing frontend or vice versa.",
+      "rubric_hints": ["Willingness to stretch", "How you ramped up", "Successful contribution"]
+    },
+    {
+      "id": "beh_076",
+      "type": "Behavioral",
+      "topic": "Learning, Feedback & Adaptability",
+      "text": "How do you keep your software engineering skills sharp outside of required classes or day-to-day tickets?",
+      "rubric_hints": ["Genuine curiosity and initiative", "Specific recent example", "Application to real projects"]
+    },
+    {
+      "id": "beh_077",
+      "type": "Behavioral",
+      "topic": "Learning, Feedback & Adaptability",
+      "text": "Tell me about a time a tool, workflow, or AI assistant you relied on gave you misleading output or failed. How did you catch it?",
+      "rubric_hints": ["Critical verification mindset", "Testing/reading docs directly", "Lesson on engineering judgment"]
+    },
+    {
+      "id": "beh_078",
+      "type": "Behavioral",
+      "topic": "Learning, Feedback & Adaptability",
+      "text": "Describe a time you had to unlearn an old habit or outdated practice when joining a new team or codebase.",
+      "rubric_hints": ["Adaptability to team conventions", "Understanding why the new way existed", "Smooth adjustment"]
+    },
+    {
+      "id": "beh_079",
+      "type": "Behavioral",
+      "topic": "Learning, Feedback & Adaptability",
+      "text": "Tell me about a project that did not turn out the way you hoped. What was your biggest takeaway?",
+      "rubric_hints": ["Candid self-reflection", "Specific lessons learned", "Applied in a later project"]
+    },
+    {
+      "id": "beh_080",
+      "type": "Behavioral",
+      "topic": "Learning, Feedback & Adaptability",
+      "text": "Describe a time you actively sought out feedback on your work before waiting for a formal review.",
+      "rubric_hints": ["Growth mindset", "Early feedback loop", "Improvement made before shipping"]
+    },
+    {
+      "id": "beh_081",
+      "type": "Behavioral",
+      "topic": "Communication & Cross-Functional Work",
+      "text": "Tell me about a time you had to explain a complex technical issue or constraint to a non-technical stakeholder.",
+      "rubric_hints": ["Avoiding unnecessary jargon", "Analogies or clear business framing", "Shared understanding reached"]
+    },
+    {
+      "id": "beh_082",
+      "type": "Behavioral",
+      "topic": "Communication & Cross-Functional Work",
+      "text": "Describe a time you worked closely with a designer or product manager to refine a feature before or during implementation.",
+      "rubric_hints": ["Collaborative give-and-take", "Raising technical feasibility early", "Better user experience"]
+    },
+    {
+      "id": "beh_083",
+      "type": "Behavioral",
+      "topic": "Communication & Cross-Functional Work",
+      "text": "Tell me about a miscommunication on a project that caused wasted work. How did you help clear it up?",
+      "rubric_hints": ["Identifying the gap cleanly", "Confirming shared understanding in writing", "Preventing repeat misunderstanding"]
+    },
+    {
+      "id": "beh_084",
+      "type": "Behavioral",
+      "topic": "Communication & Cross-Functional Work",
+      "text": "Give me an example of technical documentation, a design doc, or a README you wrote that made a real difference for others.",
+      "rubric_hints": ["Audience-focused writing", "Clear examples or setup steps", "Feedback or usage impact"]
+    },
+    {
+      "id": "beh_085",
+      "type": "Behavioral",
+      "topic": "Communication & Cross-Functional Work",
+      "text": "Tell me about a time you had to present or demo your technical work to a group. How did you prepare?",
+      "rubric_hints": ["Structuring for the audience", "Handling live demo risks", "Clear delivery"]
+    },
+    {
+      "id": "beh_086",
+      "type": "Behavioral",
+      "topic": "Communication & Cross-Functional Work",
+      "text": "Describe a time you had to deliver bad news about a delay, bug, or technical limitation to a manager or client.",
+      "rubric_hints": ["Prompt, transparent communication", "Bringing proposed solutions, not just problems", "Constructive outcome"]
+    },
+    {
+      "id": "beh_087",
+      "type": "Behavioral",
+      "topic": "Communication & Cross-Functional Work",
+      "text": "Tell me about a time you used data, benchmarks, or a user story to convince others to adopt your idea.",
+      "rubric_hints": ["Evidence-driven persuasion", "Addressing counterarguments", "Decision influenced"]
+    },
+    {
+      "id": "beh_088",
+      "type": "Behavioral",
+      "topic": "Communication & Cross-Functional Work",
+      "text": "Describe a situation where you realized two teams were using the same terms to mean different things.",
+      "rubric_hints": ["Spotting hidden ambiguity", "Aligning vocabulary and contracts", "Saved integration issues"]
+    },
+    {
+      "id": "beh_089",
+      "type": "Behavioral",
+      "topic": "Communication & Cross-Functional Work",
+      "text": "Tell me about how you keep teammates updated on your progress without overwhelming them with noise.",
+      "rubric_hints": ["Concise async updates", "Highlighting blockers clearly", "Concrete example"]
+    },
+    {
+      "id": "beh_090",
+      "type": "Behavioral",
+      "topic": "Communication & Cross-Functional Work",
+      "text": "Describe a time you gathered feedback directly from users or testers and turned it into code changes.",
+      "rubric_hints": ["Active listening to users", "Prioritizing actionable fixes", "Improved product outcome"]
+    },
+    {
+      "id": "beh_091",
+      "type": "Behavioral",
+      "topic": "Leadership, Mentorship & Initiative",
+      "text": "Tell me about a time you took the lead on organizing a group software project when no formal leader was assigned.",
+      "rubric_hints": ["Stepping up inclusively", "Setting milestones and clear roles", "Team success"]
+    },
+    {
+      "id": "beh_092",
+      "type": "Behavioral",
+      "topic": "Leadership, Mentorship & Initiative",
+      "text": "Describe a time you mentored or helped onboard a newer student or teammate onto a codebase.",
+      "rubric_hints": ["Patience and clear guidance", "Empowering them rather than doing it for them", "Teammate ramped up successfully"]
+    },
+    {
+      "id": "beh_093",
+      "type": "Behavioral",
+      "topic": "Leadership, Mentorship & Initiative",
+      "text": "Tell me about a project or technical improvement you initiated on your own without being asked.",
+      "rubric_hints": ["Problem spotted independently", "Initiative and execution", "Measurable benefit"]
+    },
+    {
+      "id": "beh_094",
+      "type": "Behavioral",
+      "topic": "Leadership, Mentorship & Initiative",
+      "text": "Describe a time you motivated a discouraged or stressed team during a difficult stretch of a project.",
+      "rubric_hints": ["Empathy and steadiness", "Practical steps to build momentum", "Team regained focus"]
+    },
+    {
+      "id": "beh_095",
+      "type": "Behavioral",
+      "topic": "Leadership, Mentorship & Initiative",
+      "text": "Tell me about a time you delegated or handed off part of your work to someone else. How did you make sure it succeeded?",
+      "rubric_hints": ["Clear context and expectations", "Available for questions without micromanaging", "Successful handoff"]
+    },
+    {
+      "id": "beh_096",
+      "type": "Behavioral",
+      "topic": "Leadership, Mentorship & Initiative",
+      "text": "Give me an example of a decision you made as a project lead that turned out to be unpopular at first.",
+      "rubric_hints": ["Explaining the reasoning clearly", "Listening to pushback", "Outcome validated or adjusted"]
+    },
+    {
+      "id": "beh_097",
+      "type": "Behavioral",
+      "topic": "Leadership, Mentorship & Initiative",
+      "text": "Tell me about a software project you are most proud of building. What made your contribution meaningful?",
+      "rubric_hints": ["Clear personal contribution", "Technical challenges solved", "Impact or pride in craftsmanship"]
+    },
+    {
+      "id": "beh_098",
+      "type": "Behavioral",
+      "topic": "Leadership, Mentorship & Initiative",
+      "text": "Describe a time you helped set engineering standards, such as linting, Git branching, or code review checklists, for a team.",
+      "rubric_hints": ["Getting team buy-in", "Keeping rules practical", "Fewer bugs or smoother merges"]
+    },
+    {
+      "id": "beh_099",
+      "type": "Behavioral",
+      "topic": "Leadership, Mentorship & Initiative",
+      "text": "Tell me about a time you had to make a tough call between helping a teammate and finishing your own critical work.",
+      "rubric_hints": ["Smart time management", "Unblocking them efficiently", "Both goals met"]
+    },
+    {
+      "id": "beh_100",
+      "type": "Behavioral",
+      "topic": "Leadership, Mentorship & Initiative",
+      "text": "Looking back at your recent engineering experiences, what kind of team environment brings out your best work, and how do you contribute to creating it?",
+      "rubric_hints": ["Self-awareness of work style", "Concrete habits you bring to a team", "Alignment with collaborative engineering"]
+    }
+  ]
+}

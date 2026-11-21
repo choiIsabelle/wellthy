@@ -1,0 +1,68 @@
+CSI 4104 Project Form
+
+Team Name: 
+Neetcode
+
+Team Members:
+Ben Gilbert (300290423)
+Isabelle Choi (300282805)
+
+Project Name:
+Wellthy
+
+Project Type:
+☑ VR  ☐AR ☐AV ☐50%Virtual 50% Real
+Project Brief Description:
+Our application is a VR interview practice simulation that will allow Co-op students and recent graduates in Computer Science and Tech to practice for their upcoming interviews. Using a set of real interview questions from multiple tech companies, and virtual avatars acting as the employers, our application provides users with a simulation of an interview, aiding with public speaking, and helping to ease the nerves associated with interviews.
+
+
+
+What area of social good is this project targeting? (e.g. exercise, education, rehabilitation, exposure, simulation, etc.)
+
+Our project will be targeting simulation as the area of social good. In particular, the application will be a simulation for public speaking and interviewing, with focus on early-in-career individuals and students.
+
+
+If it wasn’t highlighted in the description, please explain how your project will benefit the area highlighted in the previous question.
+
+As highlighted in the project description, our project will benefit the area of simulation by giving users practice with public speaking in an interview setting. Unlike practicing with a friend, or running through interview questions individually, Wellthy simulates both the environment, emotional turmoil, and intellectual engagement which makes interviews so intimidating. The expectation is that users of Wellthy will feel less anxious, more prepared, and confident in their real-life interviews.
+
+
+Is there any particular reason for choosing the specific type above (VR, AR, AV, etc.)? In other words, what makes the type of XR chosen most suitable for your goals?
+We have chosen Virtual Reality (VR) as our experience medium as VR provides the highest degree of customization, enabling the developers to have full control of the user’s surrounding environment. Wellthy will feature a completely simulated interview room with various backdrops, a virtual interviewer, and user interface. The inclusion of the user’s real environment, as enabled by AR or AV, is not necessary as we want the focus to be on the virtual interviewer, thus we will not leverage the user’s real environment.
+
+Please indicate which of the following is important for your XR experience, and justify your answer.
+☑Place Illusion
+Justification:
+Place Illusion is important for our XR experience project. In order for users to experience an effective simulation of a real interview, they need to be immersed in the physical setting emulating an in-person interview. Thus, it is necessary to convince the user they are at an employer’s office to invoke the same feelings of anxiety and uncertainty that real-life interviewers produce in early-in-career individuals.
+
+
+
+
+☑Plausibility Illusion
+Justification:
+Plausibility Illusion is important for our XR experience project. In order for the application to provide social aid, users need to feel as though the events are real, or at least “real enough” that they are plausible. If users believe that the events are plausible, it will help evoke the emotions of a standard real life interview.
+
+☐Embodiment Illusion
+Justification:
+Body embodiment illusion is not necessary because our XR experience project focuses on the intellectual engagement of the user with interview questions; they will not need to interact with elements in their environment.
+ 
+☑One of the educational methods seen in Week 4
+Justification:
+Our project could be considered a form of experiential learning, as users are practicing and developing their skills for interviews and public speaking by applying the knowledge in context. As noted in the lecture notes, the users will benefit from trying, failing, and retrying, giving themselves feedback along the way.
+
+
+☑Presence
+Justification:
+As noted in the lectures, presence is necessary in almost all cases for an XR experience, and our project is no different. In order for users to feel more involved in the world and the interview setting, we need to make sure that there is a significant presence created.
+
+☐Realism
+Justification:
+While realism is something that may be nice to have, as it could increase the place illusion of users, it is not strictly necessary to give users the sense that the interview is “real”.
+
+☐Storytelling
+Justification:
+There does not necessarily need to be storytelling in our application, as it acts more as a simulation of an interview experience. Each time the user experiences the simulation, the questions asked during the interview should be different and randomized.
+
+
+
+

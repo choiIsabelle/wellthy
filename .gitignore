@@ -1,0 +1,49 @@
+# Secrets & environment files (NEVER commit API keys)
+.env
+**/.env
+*.env.local
+
+# Python virtual environments & caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Office / PowerPoint temp lock files
+~$*
+*.tmp
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vs/
+.idea/
+
+# Unity (for when the Unity project is added to this repo)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+Assets/AssetStoreTools/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.apk
+*.aab
+*.unitypackage
+crashlytics-build.properties
